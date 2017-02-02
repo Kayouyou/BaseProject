@@ -1,0 +1,21 @@
+PODS:
+  - MJRefresh (3.1.12)
+  - ReactiveCocoa (2.3.1):
+    - ReactiveCocoa/UI (= 2.3.1)
+  - ReactiveCocoa/Core (2.3.1):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.3.1)
+  - ReactiveCocoa/UI (2.3.1):
+    - ReactiveCocoa/Core
+
+DEPENDENCIES:
+  - MJRefresh
+  - ReactiveCocoa (~> 2.3.1)
+
+SPEC CHECKSUMS:
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  ReactiveCocoa: 3fe9b233ca6db810e86681b5749488564c1179a1
+
+PODFILE CHECKSUM: 4cc7259aa6a1db76da26f01ec0aaf77a72ef3fb6
+
+COCOAPODS: 1.2.0.rc.1
