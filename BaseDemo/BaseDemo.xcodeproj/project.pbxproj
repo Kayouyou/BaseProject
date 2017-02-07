@@ -52,6 +52,7 @@
 		2450B5971E49AF8600964647 /* UILabel+extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UILabel+extension.m"; sourceTree = "<group>"; };
 		2450B5991E49B0D900964647 /* NSDate+extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+extension.h"; sourceTree = "<group>"; };
 		2450B59A1E49B0D900964647 /* NSDate+extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+extension.m"; sourceTree = "<group>"; };
+		2450B5A01E49B7BD00964647 /* Global.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Global.h; sourceTree = "<group>"; };
 		61D86893C30DC7862BBDEBC4 /* libPods-BaseDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-BaseDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		94D9DFB3AEB4A4023F3C5510 /* Pods-BaseDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BaseDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BaseDemo/Pods-BaseDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		EFACA6C11E3C33DE002C1FE8 /* BaseDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BaseDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -168,6 +169,7 @@
 			children = (
 				EFACA6C71E3C33DE002C1FE8 /* AppDelegate.h */,
 				EFACA6C81E3C33DE002C1FE8 /* AppDelegate.m */,
+				2450B5A01E49B7BD00964647 /* Global.h */,
 				EFACA6F11E3C4F70002C1FE8 /* PrefixHeader.pch */,
 				2450B5711E49A89700964647 /* Home */,
 				2450B5741E49A89700964647 /* Main */,
